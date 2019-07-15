@@ -157,7 +157,7 @@ Screen - Game
    background-image: url('../assets/sky.png');
    background-repeat: repeat-x;
    background-position: 0px 100%;
-   background-color: #ffffff;
+   background-color: #4ec0ca;
    
    -webkit-animation: animSky 7s linear infinite;
    animation: animSky 7s linear infinite;
@@ -193,7 +193,7 @@ Screen - Game
    background-image: url('../assets/land.png');
    background-repeat: repeat-x;
    background-position: 0px 0px;
-   background-color: #bebebe;
+   background-color: #ded895;
    
    -webkit-animation: animLand 2516ms linear infinite;
    animation: animLand 2516ms linear infinite;
